@@ -1,0 +1,7 @@
+name: venv-{{ cookiecutter.project_slug_dashes }}
+dependencies:
+  - python=3.10
+  - numpy
+
+  - jupyter_console
+  - black
