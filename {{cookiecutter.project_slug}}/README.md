@@ -51,3 +51,6 @@ cd docs
 # Linux
 make clean html
 ```
+## License 
+
+This software is licensed under the terms of the [MIT license](https://opensource.org/licenses/MIT "MIT License").
