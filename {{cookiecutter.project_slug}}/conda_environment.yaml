@@ -5,3 +5,9 @@ dependencies:
 
   - jupyter_console
   - black
+
+  # sphinx and dependencies for automatically creating documentation
+  - sphinx
+  - sphinx_rtd_theme
+  - sphinx-autodoc-typehints
+  - m2r2
