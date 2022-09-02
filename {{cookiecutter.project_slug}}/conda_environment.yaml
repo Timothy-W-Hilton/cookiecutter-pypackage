@@ -3,8 +3,11 @@ dependencies:
   - python=3.10
   - numpy
 
+  # development
   - jupyter_console
   - black
+  - tox
+  - pytest
 
   # sphinx and dependencies for automatically creating documentation
   - sphinx
